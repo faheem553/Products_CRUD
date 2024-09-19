@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HRMSprojects\\Products_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\repo\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\repo\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|d:\\hrmsprojects\\products_crud\\products_crud\\data\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D531D23-850E-4E3A-85AD-261C98C02F6E}|Products_CRUD\\Products_CRUD.csproj|solutionrelative:products_crud\\data\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Products_CRUD\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Products_CRUD\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:06:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Products_CRUD\\Program.cs",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Program.cs",
+              "RelativeToolTip": "Products_CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:49:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "Products_CRUD\\appsettings.json",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\appsettings.json",
+              "RelativeToolTip": "Products_CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T15:49:16.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Products_CRUD\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Products_CRUD\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:25:33.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProducts.cs",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Repo\\IProducts.cs",
+              "RelativeDocumentMoniker": "Products_CRUD\\Repo\\IProducts.cs",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Repo\\IProducts.cs",
+              "RelativeToolTip": "Products_CRUD\\Repo\\IProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:46:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Repo\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Products_CRUD\\Repo\\ProductRepo.cs",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Repo\\ProductRepo.cs",
+              "RelativeToolTip": "Products_CRUD\\Repo\\ProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:45:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Products_CRUD\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Products_CRUD\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:59:39.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Products_CRUD\\Views\\Products\\Detail.cshtml",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "Products_CRUD\\Views\\Products\\Detail.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:55:21.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Products_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Products_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T08:19:24.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Products_CRUD\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Products_CRUD\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:01:55.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Products_CRUD\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Products_CRUD\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:03:49.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Products_CRUD\\Models\\Products.cs",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Models\\Products.cs",
+              "RelativeToolTip": "Products_CRUD\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:57:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DapperDbContext.cs",
+              "DocumentMoniker": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Data\\DapperDbContext.cs",
+              "RelativeDocumentMoniker": "Products_CRUD\\Data\\DapperDbContext.cs",
+              "ToolTip": "D:\\HRMSprojects\\Products_CRUD\\Products_CRUD\\Data\\DapperDbContext.cs",
+              "RelativeToolTip": "Products_CRUD\\Data\\DapperDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:25:18.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
